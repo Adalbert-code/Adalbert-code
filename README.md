@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Ingénieur+DevOps+%26+Production+Senior;Expert+OpenShift+%2F+Kubernetes;PhD+Engineer;Spécialiste+SRE+%26+Cloud+Native" alt="Typing SVG" />
 
-**🌍 Basé en France | 🎯 11+ ans d'expertise sur les systèmes de production critiques**
+**🌍 Basé en France | 🎯 09+ ans d'expertise sur les systèmes de production critiques**
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-nanda-adalberts-projects.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adalbert-nanda/)
@@ -20,7 +20,7 @@
 nom: Adalbert NANDA TONLIO
 role: Ingénieur Hybride DevOps & Production Senior
 spécialités: [Cloud Native, GitOps, SRE, Production MCO]
-expérience: 11+ ans
+expérience: 09+ ans
 diplôme: Doctorat (PhD) en Ingénierie
 focus: Kubernetes, OpenShift, AWS, Terraform, Ansible
 ```
